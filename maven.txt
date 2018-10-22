@@ -1,0 +1,3 @@
+1.针对dev环境打包
+ 	clean install package -U -e -P dev
+
