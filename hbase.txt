@@ -1,5 +1,0 @@
-1.shell scan查询
-	(1)scan '表名' , {COLUMNS =>'列族:列名'，LIMIT=>10 }
-	(2)scan 'rowkey'
-2.查看日志
-/var/log/hbase
