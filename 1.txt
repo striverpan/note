@@ -1,2 +1,6 @@
 aaaaa
+<<<<<<< HEAD
 bbbbb
+=======
+ccc
+>>>>>>> 4
